@@ -1,0 +1,6 @@
+@PocketLedger.TaxEngine.Api_HostAddress = http://localhost:5123
+
+GET {{PocketLedger.TaxEngine.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
