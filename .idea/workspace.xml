@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90689e94-3d1e-4c4f-8d3b-8f4b8826a5c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/CopilotIndices/17.14.1691.21253/CodeChunks.db" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/CopilotIndices/17.14.1691.21253/CodeChunks.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/CopilotIndices/17.14.1691.21253/SemanticSymbols.db" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/CopilotIndices/17.14.1691.21253/SemanticSymbols.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/FileContentIndex/2720eb73-27c7-4205-ac1f-fa659ea51e19.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/FileContentIndex/87bb260b-0677-43e8-a6b5-d8fc1d70835f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/FileContentIndex/8b824d16-80df-4931-a751-139b536e0956.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/FileContentIndex/ca3e32a0-8722-4f88-a9f0-4937ba321529.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/FileContentIndex/dd0b1457-c265-4732-9969-d8754576f57f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/.vs/PocketLedgerSA/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/ProjectEvaluation/pocketledgersa.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/.vs/ProjectEvaluation/pocketledgersa.metadata.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/ProjectEvaluation/pocketledgersa.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/.vs/ProjectEvaluation/pocketledgersa.projects.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/.vs/ProjectEvaluation/pocketledgersa.strings.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/.vs/ProjectEvaluation/pocketledgersa.strings.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/PocketLedger.TaxEngine.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/PocketLedger.TaxEngine.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/MySqlConnector.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/PocketLedger.TaxEngine.Api.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/PocketLedger.TaxEngine.Api.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/PocketLedger.TaxEngine.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/PocketLedger.TaxEngine.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/PocketLedger.TaxEngine.Api.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/PocketLedger.TaxEngine.Api.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/PocketLedger.TaxEngine.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/PocketLedger.TaxEngine.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/bin/Debug/net8.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/EndpointInfo/PocketLedger.TaxEngine.Api.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/EndpointInfo/PocketLedger.TaxEngine.Api.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/PocketLedger.TaxEngine.Api.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/ref/PocketLedger.TaxEngine.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/ref/PocketLedger.TaxEngine.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/refint/PocketLedger.TaxEngine.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/refint/PocketLedger.TaxEngine.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/Debug/net8.0/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/PocketLedger.TaxEngine.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/PocketLedger.TaxEngine.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/PocketLedger.TaxEngine.Api.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/PocketLedger.TaxEngine.Api.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Solution1/PocketLedger.TaxEngine.Api/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3GXaKbQAoyPtuQQJvbvt7DbXdCK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Brooklyn-Work-C#",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/brook/OneDrive/Desktop/OneDrive/Documentos/PocketLedgerSA"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90689e94-3d1e-4c4f-8d3b-8f4b8826a5c2" name="Changes" comment="" />
+      <created>1784120306792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784120306792</updated>
+    </task>
+    <servers />
+  </component>
+</project>
