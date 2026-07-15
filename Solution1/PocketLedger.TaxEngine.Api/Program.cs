@@ -8,8 +8,6 @@ builder.Services.AddControllers();
 // Register the custom AppDbContext dependency as a Singleton
 builder.Services.AddSingleton<AppDbContext>();
 
-// Register the custom AppDbContext dependency as a Singleton
-builder.Services.AddSingleton<AppDbContext>();
 
 // Add the Tax Calculation Service dependency here:
 builder.Services.AddScoped<TaxCalculationService>();

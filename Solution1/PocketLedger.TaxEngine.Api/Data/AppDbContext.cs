@@ -1,6 +1,6 @@
 ﻿using System.Data;
+using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
-using MySqlConnector;
 
 namespace PocketLedger.TaxEngine.Api.Data
 {
@@ -15,12 +15,11 @@ namespace PocketLedger.TaxEngine.Api.Data
         }
 
         /// <summary>
-        /// Creates and returns an initialized MySQL connection ready for Dapper execution.
+        /// Creates and returns an initialized SQL Server connection ready for Dapper execution.
         /// </summary>
         public IDbConnection CreateConnection()
         {
-            return new MySqlConnection(_connectionString);
+            return new SqlConnection(_connectionString);
         }
     }
 }
-

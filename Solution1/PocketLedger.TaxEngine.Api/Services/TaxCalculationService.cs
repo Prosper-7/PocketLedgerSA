@@ -21,8 +21,8 @@ namespace PocketLedger.TaxEngine.Api.Services
             // 1. Fetch active SARS parameters for the targeted tax year
             const string configSql = @"
                 SELECT * FROM tax_year_config 
-                WHERE tax_year = @TaxYear AND is_active = TRUE 
-                LIMIT 1;";
+                WHERE tax_year = @TaxYear AND is_active = 1
+                ";
 
             var config = await connection.QueryFirstOrDefaultAsync<TaxYearConfig>(configSql, new { request.TaxYear });
             if (config == null)
