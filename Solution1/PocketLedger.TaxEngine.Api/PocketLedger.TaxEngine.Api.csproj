@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -14,6 +14,14 @@
 
   <ItemGroup>
     <Folder Include="Frontend\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="SRC\App.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>App.js</DependentUpon>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
@@ -33,6 +41,10 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>StatementsScreen.cs</LastGenOutput>
     </None>
+    <None Update="SRC\App.js">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>App.cs</LastGenOutput>
+    </None>
   </ItemGroup>
 
   <ItemGroup>
@@ -44,6 +56,11 @@
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>taxEngineClient.ts</DependentUpon>
+    </Compile>
+    <Compile Update="SRC\App.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>App.js</DependentUpon>
     </Compile>
     <Compile Update="SRC\Navigation\AppNavigator.cs">
       <DesignTime>True</DesignTime>

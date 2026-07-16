@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{110E2F48-A482-42F2-8C39-E4A1E6159982}|PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj|c:\\users\\brook\\onedrive\\desktop\\onedrive\\documentos\\pocketledgersa\\solution1\\pocketledger.taxengine.api\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{110E2F48-A482-42F2-8C39-E4A1E6159982}|PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj|solutionrelative:pocketledger.taxengine.api\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110E2F48-A482-42F2-8C39-E4A1E6159982}|PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj|c:\\users\\brook\\onedrive\\desktop\\onedrive\\documentos\\pocketledgersa\\solution1\\pocketledger.taxengine.api\\src\\app.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{110E2F48-A482-42F2-8C39-E4A1E6159982}|PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj|solutionrelative:pocketledger.taxengine.api\\src\\app.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110E2F48-A482-42F2-8C39-E4A1E6159982}|PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj|c:\\users\\brook\\onedrive\\desktop\\onedrive\\documentos\\pocketledgersa\\solution1\\pocketledger.taxengine.api\\src\\app.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{110E2F48-A482-42F2-8C39-E4A1E6159982}|PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj|solutionrelative:pocketledger.taxengine.api\\src\\app.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{110E2F48-A482-42F2-8C39-E4A1E6159982}|PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj|c:\\users\\brook\\onedrive\\desktop\\onedrive\\documentos\\pocketledgersa\\solution1\\pocketledger.taxengine.api\\src\\screens\\addtransactionscreen.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{110E2F48-A482-42F2-8C39-E4A1E6159982}|PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj|solutionrelative:pocketledger.taxengine.api\\src\\screens\\addtransactionscreen.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -98,11 +110,58 @@
       "DocumentGroups": [
         {
           "DockedHeight": 884,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\App.js",
+              "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\App.js",
+              "ToolTip": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\App.js",
+              "RelativeToolTip": "PocketLedger.TaxEngine.Api\\SRC\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-16T19:33:25.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\App.cs",
+              "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\App.cs",
+              "ToolTip": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\App.cs",
+              "RelativeToolTip": "PocketLedger.TaxEngine.Api\\SRC\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T19:32:16.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\App.js",
+              "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\App.js",
+              "ToolTip": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\App.js",
+              "RelativeToolTip": "PocketLedger.TaxEngine.Api\\SRC\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-16T19:31:41.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AddTransactionScreen.tsx",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\Screens\\AddTransactionScreen.tsx",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\Screens\\AddTransactionScreen.tsx",
@@ -115,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "StatementsScreen.tsx",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\Screens\\StatementsScreen.tsx",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\Screens\\StatementsScreen.tsx",
@@ -123,12 +182,11 @@
               "RelativeToolTip": "PocketLedger.TaxEngine.Api\\SRC\\Screens\\StatementsScreen.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-07-16T18:40:54.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T18:40:54.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AppNavigator.tsx",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\Navigation\\AppNavigator.tsx",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\Navigation\\AppNavigator.tsx",
@@ -136,12 +194,11 @@
               "RelativeToolTip": "PocketLedger.TaxEngine.Api\\SRC\\Navigation\\AppNavigator.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-07-16T18:40:36.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T18:40:36.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "taxEngineClient.ts",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\API\\taxEngineClient.ts",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\API\\taxEngineClient.ts",
@@ -149,12 +206,11 @@
               "RelativeToolTip": "PocketLedger.TaxEngine.Api\\SRC\\API\\taxEngineClient.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-07-16T18:33:39.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T18:33:39.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AppNavigator.tsx",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\Navigation\\AppNavigator.tsx",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\Navigation\\AppNavigator.tsx",
@@ -162,12 +218,11 @@
               "RelativeToolTip": "PocketLedger.TaxEngine.Api\\SRC\\Navigation\\AppNavigator.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-07-16T18:03:03.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T18:03:03.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AddTransactionScreen.tsx",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\Screens\\AddTransactionScreen.tsx",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\Screens\\AddTransactionScreen.tsx",
@@ -175,12 +230,11 @@
               "RelativeToolTip": "PocketLedger.TaxEngine.Api\\SRC\\Screens\\AddTransactionScreen.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-07-16T18:01:29.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T18:01:29.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "StatementsScreen.tsx",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\Screens\\StatementsScreen.tsx",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\Screens\\StatementsScreen.tsx",
@@ -188,12 +242,11 @@
               "RelativeToolTip": "PocketLedger.TaxEngine.Api\\SRC\\Screens\\StatementsScreen.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-07-16T18:00:31.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T18:00:31.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "taxEngineClient.ts",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\SRC\\API\\taxEngineClient.ts",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\SRC\\API\\taxEngineClient.ts",
@@ -201,33 +254,23 @@
               "RelativeToolTip": "PocketLedger.TaxEngine.Api\\SRC\\API\\taxEngineClient.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-07-16T17:51:57.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T17:51:57.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PocketLedger.TaxEngine.Api",
+              "DocumentIndex": 12,
+              "Title": "PocketLedger.TaxEngine.Api.csproj",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj",
               "ToolTip": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj",
               "RelativeToolTip": "PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-16T17:44:25.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "WhenOpened": "2026-07-16T17:44:25.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "TaxDtos.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Models\\TaxDtos.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Models\\TaxDtos.cs",
@@ -239,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "TaxCalculation.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Models\\TaxCalculation.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Models\\TaxCalculation.cs",
@@ -251,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "TaxBracket.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Models\\TaxBracket.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Models\\TaxBracket.cs",
@@ -263,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "TaxYearConfig.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Models\\TaxYearConfig.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Models\\TaxYearConfig.cs",
@@ -275,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ProvisionalTaxpayment.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Models\\ProvisionalTaxpayment.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Models\\ProvisionalTaxpayment.cs",
@@ -287,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "IncomeSource.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Models\\IncomeSource.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Models\\IncomeSource.cs",
@@ -295,12 +338,11 @@
               "RelativeToolTip": "PocketLedger.TaxEngine.Api\\Models\\IncomeSource.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA1wA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T07:31:33.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T07:31:33.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Models\\Users.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Models\\Users.cs",
@@ -312,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "TaxController.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Controllers\\TaxController.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Controllers\\TaxController.cs",
@@ -324,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "TaxCalculationService.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Services\\TaxCalculationService.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Services\\TaxCalculationService.cs",
@@ -336,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Data\\AppDbContext.cs",
@@ -348,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\Program.cs",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\Program.cs",
@@ -360,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "PocketLedger.TaxEngine.Api.http",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.http",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\PocketLedger.TaxEngine.Api.http",
@@ -372,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\brook\\OneDrive\\Desktop\\OneDrive\\Documentos\\PocketLedgerSA\\Solution1\\PocketLedger.TaxEngine.Api\\appsettings.json",
               "RelativeDocumentMoniker": "PocketLedger.TaxEngine.Api\\appsettings.json",
@@ -380,8 +422,7 @@
               "RelativeToolTip": "PocketLedger.TaxEngine.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-10T17:34:50.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-10T17:34:50.554Z"
             },
             {
               "$type": "Bookmark",
