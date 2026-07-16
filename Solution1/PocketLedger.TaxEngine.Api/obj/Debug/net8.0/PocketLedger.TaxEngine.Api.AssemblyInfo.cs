@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PocketLedger.TaxEngine.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46ca8eca15922d95814e6418152cdaefcda5b85c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9baa51d63937f92ae71712615a014d35cd676008")]
 [assembly: System.Reflection.AssemblyProductAttribute("PocketLedger.TaxEngine.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PocketLedger.TaxEngine.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
