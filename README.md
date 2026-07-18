@@ -27,9 +27,8 @@ individual users are the whole point of this app, not an afterthought.
 
 ## The team
 
-
-Brooklyn Chigozie:  Project Manager — Backend Developer — C# tax engine
- frontend & Database  enquiresbrooklyn@gmail.com   
+Brooklyn Chigozie: Project Manager — Backend Developer — C# tax engine
+frontend & Database  [enquiresbrooklyn@gmail.com] (mailto:enquiresbrooklyn@gmail.com)    
 Prosper Odoemela: Front & Backend Developer — Python intelligence service & Cloud Deployment [prosperodoemela4@gmail.com](mailto:prosperodoemela4@gmail.com) · [github.com/Prosper-7](https://github.com/Prosper-7) 
 
 ## What it does
