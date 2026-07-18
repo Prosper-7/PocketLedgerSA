@@ -13,10 +13,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3GMCoLsylCnKnE5hft3CsKxhBA9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +31,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "Restructure-intelligence-service-and-api",
+    "git-widget-placeholder": "Brooklyn-Work-C#",
     "last_opened_file_path": "/Users/prosper/Documents/GitHub/PocketLedgerSA/intelligence",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -56,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1783772224419</updated>
       <workItem from="1783772225572" duration="11368000" />
+      <workItem from="1784118550566" duration="84000" />
     </task>
     <servers />
   </component>

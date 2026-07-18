@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -10,6 +10,73 @@
     <PackageReference Include="Dapper" Version="2.1.79" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="7.0.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Frontend\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="SRC\App.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>App.js</DependentUpon>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="SRC\API\taxEngineClient.ts">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>taxEngineClient.cs</LastGenOutput>
+    </None>
+    <None Update="SRC\Navigation\AppNavigator.tsx">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>AppNavigator.cs</LastGenOutput>
+    </None>
+    <None Update="SRC\Screens\AddTransactionScreen.tsx">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>AddTransactionScreen.cs</LastGenOutput>
+    </None>
+    <None Update="SRC\Screens\StatementsScreen.tsx">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>StatementsScreen.cs</LastGenOutput>
+    </None>
+    <None Update="SRC\App.js">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>App.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="SRC\API\taxEngineClient.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>taxEngineClient.ts</DependentUpon>
+    </Compile>
+    <Compile Update="SRC\App.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>App.js</DependentUpon>
+    </Compile>
+    <Compile Update="SRC\Navigation\AppNavigator.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AppNavigator.tsx</DependentUpon>
+    </Compile>
+    <Compile Update="SRC\Screens\AddTransactionScreen.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AddTransactionScreen.tsx</DependentUpon>
+    </Compile>
+    <Compile Update="SRC\Screens\StatementsScreen.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>StatementsScreen.tsx</DependentUpon>
+    </Compile>
   </ItemGroup>
 
 </Project>
