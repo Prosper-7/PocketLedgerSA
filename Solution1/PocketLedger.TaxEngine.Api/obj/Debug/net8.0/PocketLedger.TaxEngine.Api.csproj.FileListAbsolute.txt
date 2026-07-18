@@ -75,3 +75,14 @@ C:\Users\brook\OneDrive\Desktop\OneDrive\Documentos\PocketLedgerSA\Solution1\Poc
 C:\Users\brook\OneDrive\Desktop\OneDrive\Documentos\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\brook\OneDrive\Desktop\OneDrive\Documentos\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\brook\OneDrive\Desktop\OneDrive\Documentos\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\PocketLedger.TaxEngine.Api.csproj.AssemblyReference.cache
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\PocketLedger.TaxEngine.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\PocketLedger.TaxEngine.Api.AssemblyInfoInputs.cache
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\PocketLedger.TaxEngine.Api.AssemblyInfo.cs
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\PocketLedger.TaxEngine.Api.csproj.CoreCompileInputs.cache
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\PocketLedger.TaxEngine.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\PocketLedger.TaxEngine.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\PocketLedger.TaxEngine.Api.sourcelink.json
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\PocketLedger.TaxEngine.Api.dll
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\refint\PocketLedger.TaxEngine.Api.dll
+C:\Personal projects\PocketLedgerSA\Solution1\PocketLedger.TaxEngine.Api\obj\Debug\net8.0\PocketLedger.TaxEngine.Api.pdb
