@@ -4,8 +4,8 @@
 
 ## Why we built this
 
-This started with a queue at a SARS branch. While helping my mom register
-her tax number and work through her own return, it became obvious how much
+This started with a queue at a SARS branch. While I wanted to register
+my tax number and  my mom was filling her own return, it became obvious how much
 of "doing your taxes" in South Africa is just... figuring it out yourself —
 one form, one queue, one spreadsheet at a time, with no single place that
 pulls it together for an ordinary person.
