@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>PocketLedger SA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <nav class="side glass" aria-label="Main">
+        <div class="brand">
+          <span class="mark">P</span><span>PocketLedger<small>SA</small></span>
+        </div>
+        <button class="nav" data-v="overview" aria-current="page">
+          <svg viewBox="0 0 24 24">
+            <rect x="3" y="3" width="7" height="9" rx="1.5" />
+            <rect x="14" y="3" width="7" height="5" rx="1.5" />
+            <rect x="14" y="12" width="7" height="9" rx="1.5" />
+            <rect x="3" y="16" width="7" height="5" rx="1.5" /></svg
+          >Overview
+        </button>
+        <button class="nav" data-v="tax">
+          <svg viewBox="0 0 24 24">
+            <rect x="5" y="3" width="14" height="18" rx="2" />
+            <path d="M9 8h6M9 12h2M13 12h2M9 16h2M13 16h2" /></svg
+          >Tax estimate
+        </button>
+        <div class="sp"></div>
+        <div class="year"><b>Tax year 2026/27</b>1 Mar 2026 to 28 Feb 2027</div>
+      </nav>
+
+      <main>
+        <section class="view" id="overview">
+          <header>
+            <div>
+              <h1>Overview</h1>
+              <p>Where your tax position stands today.</p>
+            </div>
+            <span class="pill">Sample data</span>
+          </header>
+          <div class="kpis">
+            <div class="card glass">
+              <div class="k">Estimated tax for the year</div>
+              <div class="v" id="kTax"></div>
+              <div class="s" id="kTaxS"></div>
+            </div>
+            <div class="card glass">
+              <div class="k">Effective rate</div>
+              <div class="v" id="kEff"></div>
+              <div class="s" id="kEffS"></div>
+            </div>
+            <div class="card glass">
+              <div class="k">Deductible spend</div>
+              <div class="v" id="kDed"></div>
+              <div class="s">From categorised transactions</div>
+            </div>
+            <div class="card glass">
+              <div class="k">Needs attention</div>
+              <div class="v" id="kFlag"></div>
+              <div class="s">Open audit flags</div>
+            </div>
+          </div>
+          <div class="two">
+            <div class="card glass">
+              <h2>Recent transactions</h2>
+              <div id="tx"></div>
+            </div>
+            <div class="stack">
+              <div class="card glass">
+                <h2>Audit flags</h2>
+                <div id="flags"></div>
+              </div>
+              <div class="card glass">
+                <h2>Coming up</h2>
+                <div id="dl"></div>
+              </div>
+            </div>
+          </div>
+          <div class="card glass">
+            <h2>Spending by category</h2>
+            <div id="cats"></div>
+          </div>
+        </section>
+
+        <section class="view" id="tax" hidden>
+          <header>
+            <div>
+              <h1>Tax estimate</h1>
+              <p>Adjust your numbers and see the result update.</p>
+            </div>
+            <span class="pill">2026/27 rates</span>
+          </header>
+          <div class="two">
+            <div class="card glass">
+              <label
+                ><span>Annual income before tax<output id="oG"></output></span
+                ><input
+                  type="range"
+                  id="gross"
+                  min="0"
+                  max="2000000"
+                  step="5000"
+              /></label>
+              <label
+                ><span>Age group</span
+                ><select id="age">
+                  <option value="0">Under 65</option>
+                  <option value="1">65 to 74</option>
+                  <option value="2">75 and over</option>
+                </select></label
+              >
+              <label
+                ><span>Retirement contributions per year</span
+                ><input type="number" id="ret" min="0" step="1000"
+              /></label>
+              <label
+                ><span>Medical aid members, including you</span
+                ><input type="number" id="med" min="0" max="10" step="1"
+              /></label>
+              <p class="note">
+                Estimate only. Figures are demo values for the 2026/27 tax year,
+                so confirm them at sars.gov.za. This is not tax advice.
+              </p>
+            </div>
+            <div class="card glass">
+              <div class="k">Estimated tax for the year</div>
+              <div class="big" id="tTax"></div>
+              <div class="s" id="tMonth"></div>
+              <div class="ladder" id="ladder" aria-label="Tax bracket"></div>
+              <div class="s" id="tRate" style="margin-bottom: 14px"></div>
+              <div id="brk"></div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="js/tax-config.js"></script>
+    <script src="js/sample-data.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
