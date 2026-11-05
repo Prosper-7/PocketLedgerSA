@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PocketLedger.TaxEngine.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af9e6e8c042c6fead3fbf9d1581c6f96179565e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4884644f5edac70ff269fe243d4eff4cda556e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PocketLedger.TaxEngine.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PocketLedger.TaxEngine.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
